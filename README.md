@@ -39,10 +39,9 @@ Abaixo está o detalhamento dos exercícios presentes no repositório:
 
 ### 🔹 Módulo 1: Desafios e Jogos práticos
 - **`01_Jogo_Forca.py`**: Importação da biblioteca Random, utilização de estrutura condicional e loop com "for" e "While".
-- **`02_Jogo_Adivinha.py`**: 
-- **`03_Jogo_Cobrinha.py`**: 
-- **`04_Juros_Compostos.py`**: 
-- **`05_Tabela_Fipe.py`**: 
+- **`02_Jogo_Adivinha.py`**: Utilização da função randint, estrutura condicional com "if", "elif" e "else".
+- **`03_Juros_Compostos.py`**: 
+- **`04_Tabela_Fipe.py`**: 
 
 ---
 
