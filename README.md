@@ -38,9 +38,9 @@ Neste repositório você encontrará resoluções de desafios de código, algori
 Abaixo está o detalhamento dos exercícios presentes no repositório:
 
 ### 🔹 Módulo 1: Desafios e Jogos práticos
-- **`01_Jogo_Forca.py`**: Importação da biblioteca Random, utilização de estrutura condicional e loop com "for" e "While".
+- **`01_Jogo_Forca.py`**: Importação da biblioteca "Random", utilização de estrutura condicional e loop com "for" e "While".
 - **`02_Jogo_Adivinha.py`**: Utilização da função randint, estrutura condicional com "if", "elif" e "else".
-- **`03_Juros_Compostos.py`**: 
+- **`03_Juros_Compostos.py`**: Criação de função, utilização da biblioteca "Math" e a função "pow"
 - **`04_Tabela_Fipe.py`**: 
 
 ---
