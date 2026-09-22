@@ -1,4 +1,4 @@
-import random 
+import random #importação de biblioteca
 # Cria uma lista de palavras
 palavras= ['python', 'programacao', 'computador']
 
@@ -13,7 +13,7 @@ letras_adivinhadas = []
 
 max_tentativas = 5
 
-while True:
+while True: #Criação de loop
     # mostra a palavra escondida 
     print(palavras_escondida)
     
