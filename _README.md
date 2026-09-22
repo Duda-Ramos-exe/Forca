@@ -14,7 +14,7 @@ Este espaço foi criado para registrar minha evolução na linguagem, documentar
 
 ---
 
-##  Sobre o Repositório
+## Sobre o Repositório
 
 Neste repositório você encontrará resoluções de desafios de código, algoritmos e rotinas práticas focadas em:
 
@@ -26,14 +26,14 @@ Neste repositório você encontrará resoluções de desafios de código, algori
 
 ---
 
-##  Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagem:** `Python`
 - **Ambiente:** `VS Code`
 
 ---
 
-##  Estrutura dos Exercícios
+## Estrutura dos Exercícios
 
 Abaixo está o detalhamento dos exercícios presentes no repositório:
 
