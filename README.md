@@ -1,3 +1,51 @@
-Forca com escolha de palavras randômicas, substituição de "-" pela letra caso faça parte da palavra escolhida
+#  Exercícios de Prática em Python
 
-Utilização de estrutura de decisão e loop com for e while
+Bem-vindo(a)
+
+Este espaço foi criado para registrar minha evolução na linguagem, documentar a resolução de problemas e consolidar conceitos fundamentais e intermediários de programação.
+
+---
+
+##  Sumário
+
+- [Sobre o Repositório](-sobre-o-repositório)
+- [Tecnologias Utilizadas](-tecnologias-utilizadas)
+- [Estrutura dos Exercícios](-estrutura-dos-exercícios)
+
+---
+
+##  Sobre o Repositório
+
+Neste repositório você encontrará resoluções de desafios de código, algoritmos e rotinas práticas focadas em:
+
+- Estruturas de controle e repetição (`if`, `else`, `for`, `while`)
+- Manipulação de estruturas de dados (`listas`, `dicionários`, `tuplas`, `conjuntos`)
+- Criação de funções e modularização de código
+- Manipulação de arquivos e automações básicas
+- Tratamento de exceções e boas práticas de código 
+
+---
+
+##  Tecnologias Utilizadas
+
+- **Linguagem:** `Python`
+- **Ambiente:** `VS Code`
+
+---
+
+##  Estrutura dos Exercícios
+
+Abaixo está o detalhamento dos exercícios presentes no repositório:
+
+### 🔹 Módulo 1: Desafios e Jogos práticos
+- **`01_Jogo_Forca.py`**: Importação da biblioteca Random, utilização de estrutura condicional e loop com "for" e "While".
+- **`02_Jogo_Adivinha.py`**: 
+- **`03_Jogo_Cobrinha.py`**: 
+- **`04_Juros_Compostos.py`**: 
+- **`05_Tabela_Fipe.py`**: 
+
+---
+
+
+
+
