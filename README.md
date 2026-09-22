@@ -8,9 +8,9 @@ Este espaço foi criado para registrar minha evolução na linguagem, documentar
 
 ##  Sumário
 
-- [Sobre o Repositório](-sobre-o-repositório)
-- [Tecnologias Utilizadas](-tecnologias-utilizadas)
-- [Estrutura dos Exercícios](-estrutura-dos-exercícios)
+- #### Sobre o Repositório
+- #### Tecnologias Utilizadas
+- #### Estrutura dos Exercícios
 
 ---
 
